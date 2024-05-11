@@ -1,0 +1,42 @@
+body{
+    background-color:darksalmon;
+   padding-left: 20%;
+   padding-right: 20%;
+}
+.aboutme{
+    display: flex;
+    justify-content: space-evenly;
+    column-gap: 170px;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
+img{
+    width: 30%;
+    height: 50%;
+    margin-left: 10%;
+    
+}
+.detaill{
+text-align: center;
+}
+#hobby{
+text-align: center;
+font-size: 20px;
+}
+#about{
+    text-align: center;
+}ls{
+    font-family:'Trebuchet MS';
+}
+.one{
+    display: flex;
+    column-gap: 15%;
+}
+p{
+    text-align: center;
+    font-family:  ;
+    font-size: 20px;
+}
+.skills{
+    margin-left: 120px;
+}
